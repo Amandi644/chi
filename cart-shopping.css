@@ -1,0 +1,87 @@
+.band-name{
+  background-color: rgb(0, 110, 255);
+  text-align: center;
+  
+}
+
+.shop-item-price{
+  width: 50px;
+  text-align: center;
+  margin: 30px;
+}
+.section-header{
+  text-align: center;
+  text-decoration: none;
+  margin: 12px;
+}
+
+.section-a,
+.section-b,
+.section-c{
+  
+text-decoration:underline ;
+  margin: 12px;
+  text-align: center;
+}
+.shop-item-price{
+  color:grey;
+}
+.cart-column{
+  color: gray;
+  
+}
+.cart-total-price{
+  color: gray;
+  margin-top: 0;
+}
+.btn-primary{
+  background-color: red;
+  padding-bottom: 7px;
+  padding-top: 7px;
+  color: white;
+  border-radius: 2px;
+  border: none;
+  font-weight: bold;
+}
+.btn-purchase{
+  background-color: rgb(0, 110, 255);
+  padding-bottom: 7px;
+  padding-top: 7px;
+  color: white;
+  border-radius: 2px;
+  border: none;
+   font-weight: bold;
+   margin-bottom: 20px;
+}
+.blue-red{
+  background-color: rgb(0, 110, 255);
+  color: white;
+  font-weight: bold;
+
+  
+}
+.btn-m{
+  background-color: rgb(0, 110, 255);
+  color: white;
+  font-weight: bold;
+margin: 50px;
+border: none;
+}
+.cart-quantity-input{
+  width: 50px;
+  color: rgb(194, 194, 212); 
+font-weight: bold;
+  text-align: center;
+}
+.btn-danger{
+   background-color: red;
+  padding-bottom: 7px;
+  padding-top: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+  border-radius: 2px;
+  border: none;
+  font-weight: bold;
+  margin: 30px;
+}
